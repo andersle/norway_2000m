@@ -10,4 +10,4 @@ Example output
 
 .. raw:: html
 
-   <iframe src="../../../_static/examples/2018/gpxplot/map1.html" height="50vh" width="100vw"></iframe>
+   <iframe src="map/2000.html" height="50vh" width="100vw"></iframe>
