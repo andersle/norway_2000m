@@ -20,12 +20,6 @@
 	        var osmUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 	        var osmAttrib='Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
 	        var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 12, attribution: osmAttrib});
-            //var kartdata2 = L.tileLayer('http://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=kartdata2&zoom={z}&x={x}&y={y}', {
-            //    attribution: '<a href="http://www.kartverket.no/">Kartverket</a>'});
-            //var terreng_norgeskart = L.tileLayer('http://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=terreng_norgeskart&zoom={z}&x={x}&y={y}', {
-            //    attribution: '<a href="http://www.kartverket.no/">Kartverket</a>'});
-            //var toporaster3_rik = L.tileLayer('http://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=toporaster3_rik&zoom={z}&x={x}&y={y}', {
-            //    attribution: '<a href="http://www.kartverket.no/">Kartverket</a>'});
 
             var map = L.map('map', {
                 center: [61.63, 8.31],
@@ -35,16 +29,13 @@
                 "Topographic Norgeskart": topo4,
                 "Toporaster 3 Norgeskart": toporaster3,
                 "OpenStreetMap": osm,
-                //"Norges grunnkart": norges_grunnkart,
-                //"Kartdata2": kartdata2,
-                //"terreng_norgeskart": terreng_norgeskart,
-                //"toporaster3_rik": toporaster3_rik,
             };
             var options = {
                 "position": "bottomleft"
             };
             L.control.layers(baseMaps, null, options).addTo(map);
             topo4.addTo(map);
+            map.attributionControl.addAttribution('<a href="http://www.andersle.no/posts/2018/norge2000m/norge2000m.html">About this map</a>');
             var mountains  = {
               "type": "FeatureCollection",
               "features": [
@@ -65,6 +56,9 @@
               ]
             };
 
+            // CREDIT FOR THE SLECTOR:
+            // https://stackoverflow.com/questions/35772717/searching-markers-with-leaflet-control-search-from-drop-down-list
+    
             var markerLayer = L.geoJson(mountains, {
                 onEachFeature: function (feature, layer)
                 {
@@ -75,10 +69,6 @@
             }).addTo(map);
             //map.fitBounds(markerLayer.getBounds());
 
-            ////////////////////////////////////////////////////////////////////////////////////////////
-            //creating the selector control//
-            ////////////////////////////////////////////////////////////////////////////////////////////
-            
             //create Leaflet control for selector
             var selector = L.control({
               position: 'topright'
@@ -106,9 +96,7 @@
               L.DomUtil.get("marker_select").appendChild(optionElement);
             });
 
-            ////////////////////////////////////////////////////////////////////////////////////////////
-            //setting up event listeners//
-            ////////////////////////////////////////////////////////////////////////////////////////////
+            //setting up event listeners:
             
             var marker_select = L.DomUtil.get("marker_select");
             
@@ -131,7 +119,6 @@
               }
             }
 
-
             var popup = L.popup();
 	        function onMapClick(e) {
 		        popup
@@ -141,7 +128,6 @@
 	        }
 
         	map.on('click', onMapClick);
-
         </script>
     </body>
 </html>
