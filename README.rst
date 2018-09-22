@@ -10,7 +10,7 @@ and `Leaflet <https://leafletjs.com>`_ is used for rendering the maps.
 Example map
 ===========
 
-.. image:: map/map.png
+.. image:: example/map.png
    :scale: 90 %
    :alt: Example map
    :align: center
