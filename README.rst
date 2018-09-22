@@ -8,6 +8,8 @@ This is just a small Python script for generating a map of the
 Example output
 ==============
 
-.. raw:: html
+.. image:: map/map.png
+   :scale: 90 %
+   :alt: Example map
+   :align: center
 
-   <iframe src="map/2000.html" height="50vh" width="100vw"></iframe>
