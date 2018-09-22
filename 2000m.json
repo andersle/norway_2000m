@@ -1,0 +1,2402 @@
+[
+    {
+        "idx": 1,
+        "name": "Galdh\u00f8piggen",
+        "height": 2469,
+        "prim": 2370.0,
+        "lat": 61.6364395,
+        "lng": 8.3124774
+    },
+    {
+        "idx": 2,
+        "name": "Glittertinden",
+        "height": 2465,
+        "prim": 990.0,
+        "lat": 61.6512235,
+        "lng": 8.5575914
+    },
+    {
+        "idx": 3,
+        "name": "Skagast\u00f8lstinden, Store (Storen)",
+        "height": 2405,
+        "prim": 1015.0,
+        "lat": 61.4611961,
+        "lng": 7.8719401
+    },
+    {
+        "idx": 4,
+        "name": "Styggedalstinden, Store, \u00f8sttoppen",
+        "height": 2387,
+        "prim": 155.0,
+        "lat": 61.46455,
+        "lng": 7.90207
+    },
+    {
+        "idx": 5,
+        "name": "Styggedalstinden, Store, vesttoppen",
+        "height": 2380,
+        "prim": 25.0,
+        "lat": 61.46497,
+        "lng": 7.89649
+    },
+    {
+        "idx": 6,
+        "name": "Skardstinden",
+        "height": 2373,
+        "prim": 280.0,
+        "lat": 61.63319,
+        "lng": 8.26535
+    },
+    {
+        "idx": 7,
+        "name": "Veslepiggen (Galdh\u00f8piggen, Vesle)",
+        "height": 2369,
+        "prim": 150.0,
+        "lat": 61.64058,
+        "lng": 8.30596
+    },
+    {
+        "idx": 8,
+        "name": "Surtningssui, Store",
+        "height": 2368,
+        "prim": 710.0,
+        "lat": 61.53415,
+        "lng": 8.57265
+    },
+    {
+        "idx": 9,
+        "name": "Memurutinden, Store, \u00f8sttoppen",
+        "height": 2366,
+        "prim": 336.0,
+        "lat": 61.56743,
+        "lng": 8.48827
+    },
+    {
+        "idx": 10,
+        "name": "Memurutinden, Store, vesttoppen",
+        "height": 2364,
+        "prim": 25.0,
+        "lat": 61.56723,
+        "lng": 8.47769
+    },
+    {
+        "idx": 11,
+        "name": "Keilhaus topp",
+        "height": 2355,
+        "prim": 20.0,
+        "lat": 61.63489,
+        "lng": 8.32618
+    },
+    {
+        "idx": 12,
+        "name": "Jervvasstinden (Gjertvasstinden)",
+        "height": 2351,
+        "prim": 120.0,
+        "lat": 61.46477,
+        "lng": 7.91123
+    },
+    {
+        "idx": 13,
+        "name": "Sentraltinden",
+        "height": 2348,
+        "prim": 115.0,
+        "lat": 61.46356,
+        "lng": 7.88244
+    },
+    {
+        "idx": 14,
+        "name": "Heillstugutinden, Store",
+        "height": 2346,
+        "prim": 450.0,
+        "lat": 61.5445,
+        "lng": 8.42777
+    },
+    {
+        "idx": 15,
+        "name": "Storgjuvtinden",
+        "height": 2344,
+        "prim": 110.0,
+        "lat": 61.63045,
+        "lng": 8.29366
+    },
+    {
+        "idx": 16,
+        "name": "Heillstugutinden, M",
+        "height": 2340,
+        "prim": 158.0,
+        "lat": 61.55167,
+        "lng": 8.42452
+    },
+    {
+        "idx": 17,
+        "name": "Knutsholstinden, Store",
+        "height": 2340,
+        "prim": 970.0,
+        "lat": 61.42427,
+        "lng": 8.56216
+    },
+    {
+        "idx": 18,
+        "name": "Skagast\u00f8lstinden, Vetle",
+        "height": 2340,
+        "prim": 70.0,
+        "lat": 61.4645,
+        "lng": 7.87409
+    },
+    {
+        "idx": 19,
+        "name": "Leirh\u00f8i",
+        "height": 2330,
+        "prim": 290.0,
+        "lat": 61.6041,
+        "lng": 8.45513
+    },
+    {
+        "idx": 20,
+        "name": "Tj\u00f8rnholstinden",
+        "height": 2329,
+        "prim": 340.0,
+        "lat": 61.44472,
+        "lng": 8.64611
+    },
+    {
+        "idx": 21,
+        "name": "Tj\u00f8rnholstinden, \u00f8sttoppen (Steinflytinden)",
+        "height": 2318,
+        "prim": 20.0,
+        "lat": 61.44540300914398,
+        "lng": 8.650268965972538
+    },
+    {
+        "idx": 22,
+        "name": "Bukkeh\u00f8i",
+        "height": 2314,
+        "prim": 350.0,
+        "lat": 61.60434,
+        "lng": 8.26592
+    },
+    {
+        "idx": 23,
+        "name": "Skardstinden, n\u00e5la",
+        "height": 2310,
+        "prim": 20.0,
+        "lat": 61.62976,
+        "lng": 8.2698
+    },
+    {
+        "idx": 24,
+        "name": "Tverr\u00e5tinden, Store",
+        "height": 2309,
+        "prim": 190.0,
+        "lat": 61.6152,
+        "lng": 8.30165
+    },
+    {
+        "idx": 25,
+        "name": "Ymelstinden",
+        "height": 2304,
+        "prim": 40.0,
+        "lat": 61.62767,
+        "lng": 8.28811
+    },
+    {
+        "idx": 26,
+        "name": "Surtningssui, \u00d8-1",
+        "height": 2302,
+        "prim": 30.0,
+        "lat": 61.52764,
+        "lng": 8.58134
+    },
+    {
+        "idx": 27,
+        "name": "Tverr\u00e5tinden, M",
+        "height": 2302,
+        "prim": 70.0,
+        "lat": 61.61452,
+        "lng": 8.31536
+    },
+    {
+        "idx": 28,
+        "name": "Memurutinden, \u00d8-1",
+        "height": 2301,
+        "prim": 170.0,
+        "lat": 61.56554,
+        "lng": 8.50751
+    },
+    {
+        "idx": 29,
+        "name": "Trollsteinseggi",
+        "height": 2300,
+        "prim": 90.0,
+        "lat": 61.66041,
+        "lng": 8.55857
+    },
+    {
+        "idx": 30,
+        "name": "Leirungstinden, \u00d8",
+        "height": 2288,
+        "prim": 270.0,
+        "lat": 61.42163,
+        "lng": 8.60075
+    },
+    {
+        "idx": 31,
+        "name": "Tverr\u00e5tinden, V",
+        "height": 2288,
+        "prim": 15.0,
+        "lat": 61.61527,
+        "lng": 8.29483
+    },
+    {
+        "idx": 32,
+        "name": "Sn\u00f8hetta, Stortoppen",
+        "height": 2286,
+        "prim": 1675.0,
+        "lat": 62.31985,
+        "lng": 9.26787
+    },
+    {
+        "idx": 33,
+        "name": "Skagast\u00f8lstinden, Midtre",
+        "height": 2284,
+        "prim": 30.0,
+        "lat": 61.46818,
+        "lng": 7.86862
+    },
+    {
+        "idx": 34,
+        "name": "Galdh\u00f8i",
+        "height": 2283,
+        "prim": 90.0,
+        "lat": 61.64977,
+        "lng": 8.3184
+    },
+    {
+        "idx": 35,
+        "name": "Memurutinden, V-1",
+        "height": 2280,
+        "prim": 80.0,
+        "lat": 61.55814,
+        "lng": 8.46357
+    },
+    {
+        "idx": 36,
+        "name": "Sn\u00f8hetta, Midttoppen",
+        "height": 2278,
+        "prim": 35.0,
+        "lat": 62.31988,
+        "lng": 9.25487
+    },
+    {
+        "idx": 37,
+        "name": "Svellnosi",
+        "height": 2272,
+        "prim": 20.0,
+        "lat": 61.63363,
+        "lng": 8.33806
+    },
+    {
+        "idx": 38,
+        "name": "Veotinden, S",
+        "height": 2267,
+        "prim": 130.0,
+        "lat": 61.57222,
+        "lng": 8.53249
+    },
+    {
+        "idx": 39,
+        "name": "Mesmogtinden",
+        "height": 2264,
+        "prim": 770.0,
+        "lat": 61.40371,
+        "lng": 8.53394
+    },
+    {
+        "idx": 40,
+        "name": "Sn\u00f8hetta, Hettpiggen",
+        "height": 2261,
+        "prim": 50.0,
+        "lat": 62.31694,
+        "lng": 9.25128
+    },
+    {
+        "idx": 41,
+        "name": "Glittertindoksle, \u00d8",
+        "height": 2260,
+        "prim": 40.0,
+        "lat": 61.65709,
+        "lng": 8.57422
+    },
+    {
+        "idx": 42,
+        "name": "Storgrovh\u00f8i",
+        "height": 2259,
+        "prim": 180.0,
+        "lat": 61.64346,
+        "lng": 8.26706
+    },
+    {
+        "idx": 43,
+        "name": "Bessh\u00f8i",
+        "height": 2258,
+        "prim": 650.0,
+        "lat": 61.51789,
+        "lng": 8.68722
+    },
+    {
+        "idx": 44,
+        "name": "Nautgardstinden",
+        "height": 2258,
+        "prim": 573.0,
+        "lat": 61.60326,
+        "lng": 8.75928
+    },
+    {
+        "idx": 45,
+        "name": "Heillstugutinden, S-1",
+        "height": 2255,
+        "prim": 114.0,
+        "lat": 61.53831,
+        "lng": 8.43014
+    },
+    {
+        "idx": 46,
+        "name": "Sn\u00f8hetta, Vesttoppen",
+        "height": 2253,
+        "prim": 70.0,
+        "lat": 62.31509,
+        "lng": 9.24929
+    },
+    {
+        "idx": 47,
+        "name": "Storgrovh\u00f8i, N",
+        "height": 2253,
+        "prim": 60.0,
+        "lat": 61.65001,
+        "lng": 8.27728
+    },
+    {
+        "idx": 48,
+        "name": "Glittertindoksle, V",
+        "height": 2251,
+        "prim": 20.0,
+        "lat": 61.66177,
+        "lng": 8.53609
+    },
+    {
+        "idx": 49,
+        "name": "Surtningssui, \u00d8-2",
+        "height": 2251,
+        "prim": 20.0,
+        "lat": 61.52689,
+        "lng": 8.5876
+    },
+    {
+        "idx": 50,
+        "name": "Leirungstinden, V",
+        "height": 2250,
+        "prim": 200.0,
+        "lat": 61.41615,
+        "lng": 8.58173
+    },
+    {
+        "idx": 51,
+        "name": "Skarvflyl\u00f8yfttinden",
+        "height": 2250,
+        "prim": 35.0,
+        "lat": 61.42906,
+        "lng": 8.61193
+    },
+    {
+        "idx": 52,
+        "name": "Memurutinden, V-3",
+        "height": 2243,
+        "prim": 80.0,
+        "lat": 61.5517,
+        "lng": 8.46242
+    },
+    {
+        "idx": 53,
+        "name": "Veotinden",
+        "height": 2240,
+        "prim": 70.0,
+        "lat": 61.57617,
+        "lng": 8.53138
+    },
+    {
+        "idx": 54,
+        "name": "Memurutinden, V-2",
+        "height": 2238,
+        "prim": 25.0,
+        "lat": 61.5531,
+        "lng": 8.46081
+    },
+    {
+        "idx": 55,
+        "name": "Semeltinden",
+        "height": 2236,
+        "prim": 450.0,
+        "lat": 61.51349,
+        "lng": 8.4059
+    },
+    {
+        "idx": 56,
+        "name": "Visbretinden",
+        "height": 2234,
+        "prim": 560.0,
+        "lat": 61.53019,
+        "lng": 8.33548
+    },
+    {
+        "idx": 57,
+        "name": "Styggeh\u00f8bretinden, S\u00d8",
+        "height": 2232,
+        "prim": 95.0,
+        "lat": 61.5674,
+        "lng": 8.5561
+    },
+    {
+        "idx": 58,
+        "name": "Memurutinden, V-4",
+        "height": 2230,
+        "prim": 80.0,
+        "lat": 61.54604,
+        "lng": 8.47538
+    },
+    {
+        "idx": 59,
+        "name": "Storgrovtinden",
+        "height": 2229,
+        "prim": 34.0,
+        "lat": 61.64149,
+        "lng": 8.26632
+    },
+    {
+        "idx": 60,
+        "name": "H\u00f8gdebrotet",
+        "height": 2226,
+        "prim": 80.0,
+        "lat": 61.45292,
+        "lng": 8.66918
+    },
+    {
+        "idx": 61,
+        "name": "Kjelh\u00f8i",
+        "height": 2223,
+        "prim": 30.0,
+        "lat": 61.66685,
+        "lng": 8.33636
+    },
+    {
+        "idx": 62,
+        "name": "Skagast\u00f8lsnebbet",
+        "height": 2222,
+        "prim": 25.0,
+        "lat": 61.469167,
+        "lng": 7.868333
+    },
+    {
+        "idx": 63,
+        "name": "Storebj\u00f8rn",
+        "height": 2222,
+        "prim": 800.0,
+        "lat": 61.54824,
+        "lng": 8.13725
+    },
+    {
+        "idx": 64,
+        "name": "Styggeh\u00f8bretinden, SV",
+        "height": 2220,
+        "prim": 30.0,
+        "lat": 61.56638,
+        "lng": 8.55136
+    },
+    {
+        "idx": 65,
+        "name": "Skardstinden, V",
+        "height": 2219,
+        "prim": 15.0,
+        "lat": 61.63386,
+        "lng": 8.25518
+    },
+    {
+        "idx": 66,
+        "name": "Heillstugutinden, N-3",
+        "height": 2218,
+        "prim": 90.0,
+        "lat": 61.56204,
+        "lng": 8.42074
+    },
+    {
+        "idx": 67,
+        "name": "Bukkeholstinden, Store",
+        "height": 2213,
+        "prim": 160.0,
+        "lat": 61.57934,
+        "lng": 8.30737
+    },
+    {
+        "idx": 68,
+        "name": "Styggeh\u00f8i",
+        "height": 2213,
+        "prim": 230.0,
+        "lat": 61.59124,
+        "lng": 8.33682
+    },
+    {
+        "idx": 69,
+        "name": "Skarvflytinden, S",
+        "height": 2210,
+        "prim": 60.0,
+        "lat": 61.43317,
+        "lng": 8.60975
+    },
+    {
+        "idx": 70,
+        "name": "Storstyggesv\u00e5n\u00e5tinden",
+        "height": 2209,
+        "prim": 540.0,
+        "lat": 62.28402,
+        "lng": 9.1883
+    },
+    {
+        "idx": 71,
+        "name": "Kalveh\u00f8gdi, V-2",
+        "height": 2208,
+        "prim": 530.0,
+        "lat": 61.39276,
+        "lng": 8.62074
+    },
+    {
+        "idx": 72,
+        "name": "Sm\u00f8rstabbtinden, Store",
+        "height": 2208,
+        "prim": 200.0,
+        "lat": 61.57161,
+        "lng": 8.11914
+    },
+    {
+        "idx": 73,
+        "name": "Tverr\u00e5tindan, N for..",
+        "height": 2207,
+        "prim": 25.0,
+        "lat": 61.62402,
+        "lng": 8.2903
+    },
+    {
+        "idx": 74,
+        "name": "Langedalstinden",
+        "height": 2206,
+        "prim": 100.0,
+        "lat": 61.40063,
+        "lng": 8.52332
+    },
+    {
+        "idx": 75,
+        "name": "Knutsholstinden, Vesle",
+        "height": 2205,
+        "prim": 75.0,
+        "lat": 61.4178,
+        "lng": 8.57589
+    },
+    {
+        "idx": 76,
+        "name": "Austanbotntinden, Store",
+        "height": 2203,
+        "prim": 475.0,
+        "lat": 61.43177,
+        "lng": 7.79547
+    },
+    {
+        "idx": 77,
+        "name": "Trollh\u00f8in, Store (Trollsteinh\u00f8e, N)",
+        "height": 2201,
+        "prim": 347.0,
+        "lat": 61.70136,
+        "lng": 8.58237
+    },
+    {
+        "idx": 78,
+        "name": "Styggeh\u00f8i, \u00d8",
+        "height": 2200,
+        "prim": 15.0,
+        "lat": 61.59717,
+        "lng": 8.34658
+    },
+    {
+        "idx": 79,
+        "name": "Bl\u00e5breh\u00f8i, S-2",
+        "height": 2196,
+        "prim": 60.0,
+        "lat": 61.54412,
+        "lng": 8.55663
+    },
+    {
+        "idx": 80,
+        "name": "Nautgardstinden, \u00d8",
+        "height": 2194,
+        "prim": 45.0,
+        "lat": 61.6107,
+        "lng": 8.77108
+    },
+    {
+        "idx": 81,
+        "name": "Kvitskardtinden",
+        "height": 2193,
+        "prim": 300.0,
+        "lat": 61.39636,
+        "lng": 8.55406
+    },
+    {
+        "idx": 82,
+        "name": "Slettmarkh\u00f8i",
+        "height": 2190,
+        "prim": 440.0,
+        "lat": 61.40057,
+        "lng": 8.48106
+    },
+    {
+        "idx": 83,
+        "name": "Dronningi",
+        "height": 2189,
+        "prim": 20.0,
+        "lat": 61.66691,
+        "lng": 8.5584
+    },
+    {
+        "idx": 84,
+        "name": "Heillstugutinden, S-2",
+        "height": 2189,
+        "prim": 140.0,
+        "lat": 61.52831,
+        "lng": 8.42225
+    },
+    {
+        "idx": 85,
+        "name": "Saksi",
+        "height": 2189,
+        "prim": 160.0,
+        "lat": 61.5616,
+        "lng": 8.13346
+    },
+    {
+        "idx": 86,
+        "name": "Knutsholstinden, N",
+        "height": 2185,
+        "prim": 55.0,
+        "lat": 61.43418,
+        "lng": 8.55554
+    },
+    {
+        "idx": 87,
+        "name": "Veobrehesten",
+        "height": 2185,
+        "prim": 50.0,
+        "lat": 61.59251,
+        "lng": 8.47272
+    },
+    {
+        "idx": 88,
+        "name": "Veobretinden",
+        "height": 2183,
+        "prim": 100.0,
+        "lat": 61.57986,
+        "lng": 8.49076
+    },
+    {
+        "idx": 89,
+        "name": "Dumh\u00f8i",
+        "height": 2181,
+        "prim": 15.0,
+        "lat": 61.6378,
+        "lng": 8.24583
+    },
+    {
+        "idx": 90,
+        "name": "Svellnosbrehesten",
+        "height": 2181,
+        "prim": 30.0,
+        "lat": 61.62135,
+        "lng": 8.30722
+    },
+    {
+        "idx": 91,
+        "name": "Kalveh\u00f8gdi",
+        "height": 2178,
+        "prim": 85.0,
+        "lat": 61.39131,
+        "lng": 8.64672
+    },
+    {
+        "idx": 92,
+        "name": "Rondslottet",
+        "height": 2178,
+        "prim": 1220.0,
+        "lat": 61.9149,
+        "lng": 9.85115
+    },
+    {
+        "idx": 93,
+        "name": "Semeltinden, S",
+        "height": 2178,
+        "prim": 15.0,
+        "lat": 61.50936,
+        "lng": 8.40936
+    },
+    {
+        "idx": 94,
+        "name": "Heillstugutinden, N-1",
+        "height": 2176,
+        "prim": 25.0,
+        "lat": 61.55762,
+        "lng": 8.41996
+    },
+    {
+        "idx": 95,
+        "name": "Heimre Ill\u00e5bretinden, S",
+        "height": 2175,
+        "prim": 30.0,
+        "lat": 61.63524,
+        "lng": 8.27133
+    },
+    {
+        "idx": 96,
+        "name": "Stornubben",
+        "height": 2174,
+        "prim": 170.0,
+        "lat": 61.62731,
+        "lng": 8.79507
+    },
+    {
+        "idx": 97,
+        "name": "Svartdalspiggen, Store",
+        "height": 2165,
+        "prim": 180.0,
+        "lat": 61.41703,
+        "lng": 8.51249
+    },
+    {
+        "idx": 98,
+        "name": "Hestbrepiggen, N-2",
+        "height": 2172,
+        "prim": 870.0,
+        "lat": 61.75017,
+        "lng": 8.08577
+    },
+    {
+        "idx": 99,
+        "name": "Heimre Ill\u00e5bretinden, N",
+        "height": 2170,
+        "prim": 25.0,
+        "lat": 61.63867,
+        "lng": 8.26766
+    },
+    {
+        "idx": 100,
+        "name": "Knutsholstinden, M",
+        "height": 2170,
+        "prim": 40.0,
+        "lat": 61.42981,
+        "lng": 8.55366
+    },
+    {
+        "idx": 101,
+        "name": "Loftet",
+        "height": 2170,
+        "prim": 340.0,
+        "lat": 61.6229,
+        "lng": 8.12603
+    },
+    {
+        "idx": 102,
+        "name": "Trollstein-Rundh\u00f8i",
+        "height": 2170,
+        "prim": 140.0,
+        "lat": 61.67476,
+        "lng": 8.55708
+    },
+    {
+        "idx": 103,
+        "name": "Rauddalseggi, Store",
+        "height": 2168,
+        "prim": 650.0,
+        "lat": 61.46757,
+        "lng": 8.31024
+    },
+    {
+        "idx": 104,
+        "name": "Skagast\u00f8lstinden, N",
+        "height": 2167,
+        "prim": 60.0,
+        "lat": 61.47332,
+        "lng": 7.86531
+    },
+    {
+        "idx": 105,
+        "name": "Styggeh\u00f8bretinden, N",
+        "height": 2167,
+        "prim": 60.0,
+        "lat": 61.57719,
+        "lng": 8.5453
+    },
+    {
+        "idx": 106,
+        "name": "Bukkeholstinden, V-1",
+        "height": 2166,
+        "prim": 30.0,
+        "lat": 61.59095,
+        "lng": 8.28615
+    },
+    {
+        "idx": 107,
+        "name": "Bukkeholstinden, V-2",
+        "height": 2166,
+        "prim": 30.0,
+        "lat": 61.59268,
+        "lng": 8.27704
+    },
+    {
+        "idx": 108,
+        "name": "Bukkeholstinden, V-4",
+        "height": 2166,
+        "prim": 50.0,
+        "lat": 61.59672,
+        "lng": 8.26988
+    },
+    {
+        "idx": 109,
+        "name": "Bl\u00e5breh\u00f8i",
+        "height": 2165,
+        "prim": 58.0,
+        "lat": 61.556,
+        "lng": 8.55488
+    },
+    {
+        "idx": 110,
+        "name": "Slettmarkpiggen",
+        "height": 2163,
+        "prim": 150.0,
+        "lat": 61.39754,
+        "lng": 8.46644
+    },
+    {
+        "idx": 111,
+        "name": "Bukkeholstinden, V-3",
+        "height": 2161,
+        "prim": 35.0,
+        "lat": 61.59452,
+        "lng": 8.2759
+    },
+    {
+        "idx": 112,
+        "name": "Steinh\u00f8i (Trollsteinh\u00f8e, S)",
+        "height": 2161,
+        "prim": 30.0,
+        "lat": 61.6925,
+        "lng": 8.58048
+    },
+    {
+        "idx": 113,
+        "name": "Tverrbotntinden, Store",
+        "height": 2161,
+        "prim": 280.0,
+        "lat": 61.57544,
+        "lng": 8.25497
+    },
+    {
+        "idx": 114,
+        "name": "Hestbrepiggen, M-1",
+        "height": 2160,
+        "prim": 190.0,
+        "lat": 61.74048,
+        "lng": 8.08188
+    },
+    {
+        "idx": 115,
+        "name": "Maradalstinden, N",
+        "height": 2160,
+        "prim": 30.0,
+        "lat": 61.459167,
+        "lng": 7.8875
+    },
+    {
+        "idx": 116,
+        "name": "Kalveh\u00f8gdi, \u00d8-1",
+        "height": 2159,
+        "prim": 25.0,
+        "lat": 61.39609,
+        "lng": 8.65822
+    },
+    {
+        "idx": 117,
+        "name": "Skardalseggi",
+        "height": 2159,
+        "prim": 570.0,
+        "lat": 61.48512,
+        "lng": 8.33955
+    },
+    {
+        "idx": 118,
+        "name": "Rauddalstinden, Store",
+        "height": 2157,
+        "prim": 639.0,
+        "lat": 61.49447,
+        "lng": 8.18678
+    },
+    {
+        "idx": 119,
+        "name": "Urdanostinden",
+        "height": 2157,
+        "prim": 692.0,
+        "lat": 61.42677,
+        "lng": 8.15013
+    },
+    {
+        "idx": 120,
+        "name": "Veslfjelltinden",
+        "height": 2157,
+        "prim": 190.0,
+        "lat": 61.61008,
+        "lng": 8.11361
+    },
+    {
+        "idx": 121,
+        "name": "Bl\u00e5breh\u00f8i, S-1",
+        "height": 2154,
+        "prim": 10.0,
+        "lat": 61.55212,
+        "lng": 8.55484
+    },
+    {
+        "idx": 122,
+        "name": "Bukkeholstinden, M-1",
+        "height": 2154,
+        "prim": 30.0,
+        "lat": 61.58221,
+        "lng": 8.30009
+    },
+    {
+        "idx": 123,
+        "name": "Gr\u00e5h\u00f8i",
+        "height": 2154,
+        "prim": 60.0,
+        "lat": 61.69012,
+        "lng": 8.56166
+    },
+    {
+        "idx": 124,
+        "name": "Skarvflytinden, M",
+        "height": 2154,
+        "prim": 60.0,
+        "lat": 61.4365,
+        "lng": 8.5997
+    },
+    {
+        "idx": 125,
+        "name": "Memurutinden, \u00d8-2",
+        "height": 2151,
+        "prim": 20.0,
+        "lat": 61.56279,
+        "lng": 8.5169
+    },
+    {
+        "idx": 126,
+        "name": "Tverrbotntinden, \u00d8-1",
+        "height": 2151,
+        "prim": 90.0,
+        "lat": 61.57078,
+        "lng": 8.26958
+    },
+    {
+        "idx": 127,
+        "name": "Heillstugutinden, N-2",
+        "height": 2150,
+        "prim": 15.0,
+        "lat": 61.56008,
+        "lng": 8.41849
+    },
+    {
+        "idx": 128,
+        "name": "Veslebj\u00f8rn, S",
+        "height": 2150,
+        "prim": 100.0,
+        "lat": 61.55516,
+        "lng": 8.12818
+    },
+    {
+        "idx": 129,
+        "name": "Bukkeholstinden, N",
+        "height": 2149,
+        "prim": 100.0,
+        "lat": 61.59287,
+        "lng": 8.3008
+    },
+    {
+        "idx": 130,
+        "name": "Dyrhaugstinden, Store",
+        "height": 2147,
+        "prim": 410.0,
+        "lat": 61.45949,
+        "lng": 7.83007
+    },
+    {
+        "idx": 131,
+        "name": "Semelholstinden",
+        "height": 2147,
+        "prim": 140.0,
+        "lat": 61.5351,
+        "lng": 8.3565
+    },
+    {
+        "idx": 132,
+        "name": "Knutsholstinden, S",
+        "height": 2145,
+        "prim": 15.0,
+        "lat": 61.41728,
+        "lng": 8.578
+    },
+    {
+        "idx": 133,
+        "name": "Tj\u00f8rnholsoksle",
+        "height": 2145,
+        "prim": 130.0,
+        "lat": 61.43286,
+        "lng": 8.63719
+    },
+    {
+        "idx": 134,
+        "name": "Hestbrepiggen, M-2",
+        "height": 2143,
+        "prim": 50.0,
+        "lat": 61.74071,
+        "lng": 8.05206
+    },
+    {
+        "idx": 135,
+        "name": "Ryggeh\u00f8i",
+        "height": 2142,
+        "prim": 300.0,
+        "lat": 61.6191,
+        "lng": 8.56038
+    },
+    {
+        "idx": 136,
+        "name": "Sn\u00f8holtinden (Sjogholstinden)",
+        "height": 2141,
+        "prim": 676.0,
+        "lat": 61.44144,
+        "lng": 8.31043
+    },
+    {
+        "idx": 137,
+        "name": "Bl\u00e5breh\u00f8i, N",
+        "height": 2140,
+        "prim": 22.0,
+        "lat": 61.56142,
+        "lng": 8.55213
+    },
+    {
+        "idx": 138,
+        "name": "Memurutinden, V-5",
+        "height": 2140,
+        "prim": 80.0,
+        "lat": 61.5392,
+        "lng": 8.48825
+    },
+    {
+        "idx": 139,
+        "name": "Hestbrepiggen, V-2",
+        "height": 2139,
+        "prim": 50.0,
+        "lat": 61.73208,
+        "lng": 8.01122
+    },
+    {
+        "idx": 140,
+        "name": "Storronden",
+        "height": 2138,
+        "prim": 390.0,
+        "lat": 61.89172,
+        "lng": 9.86197
+    },
+    {
+        "idx": 141,
+        "name": "Mj\u00f8lkedalstinden",
+        "height": 2137,
+        "prim": 550.0,
+        "lat": 61.45941,
+        "lng": 8.25053
+    },
+    {
+        "idx": 142,
+        "name": "Svartdalspiggen, N",
+        "height": 2137,
+        "prim": 50.0,
+        "lat": 61.42166,
+        "lng": 8.50883
+    },
+    {
+        "idx": 143,
+        "name": "Heillstugubrehesten, N",
+        "height": 2136,
+        "prim": 40.0,
+        "lat": 61.55512,
+        "lng": 8.42949
+    },
+    {
+        "idx": 144,
+        "name": "Bukkeholstinden, M-2",
+        "height": 2135,
+        "prim": 45.0,
+        "lat": 61.58271,
+        "lng": 8.2893
+    },
+    {
+        "idx": 145,
+        "name": "Dyrhaugstinden, M, nordtoppen",
+        "height": 2135,
+        "prim": 20.0,
+        "lat": 61.458362144864346,
+        "lng": 7.833080637038039
+    },
+    {
+        "idx": 146,
+        "name": "Dyrhaugstinden, M, s\u00f8rtoppen",
+        "height": 2134,
+        "prim": 10.0,
+        "lat": 61.45763,
+        "lng": 7.83659
+    },
+    {
+        "idx": 147,
+        "name": "Kniven",
+        "height": 2133,
+        "prim": 100.0,
+        "lat": 61.56799,
+        "lng": 8.12496
+    },
+    {
+        "idx": 148,
+        "name": "Surtningssui, S",
+        "height": 2133,
+        "prim": 25.0,
+        "lat": 61.52003,
+        "lng": 8.57733
+    },
+    {
+        "idx": 149,
+        "name": "Hestbrepiggen, \u00d8-1",
+        "height": 2132,
+        "prim": 50.0,
+        "lat": 61.74196,
+        "lng": 8.10888
+    },
+    {
+        "idx": 150,
+        "name": "Hestbrepiggen, N-1",
+        "height": 2131,
+        "prim": 15.0,
+        "lat": 61.74497,
+        "lng": 8.08401
+    },
+    {
+        "idx": 151,
+        "name": "Burchardts tind (Knutsholstind, p\u00e5 N\u00d8-eggen)",
+        "height": 2125,
+        "prim": 30.0,
+        "lat": 61.43578,
+        "lng": 8.55438
+    },
+    {
+        "idx": 152,
+        "name": "Ringstinden, Store",
+        "height": 2124,
+        "prim": 270.0,
+        "lat": 61.44195,
+        "lng": 7.80055
+    },
+    {
+        "idx": 153,
+        "name": "Kalveh\u00f8gdi, V-1",
+        "height": 2122,
+        "prim": 25.0,
+        "lat": 61.38814,
+        "lng": 8.63549
+    },
+    {
+        "idx": 154,
+        "name": "Heillstugubrehesten, S",
+        "height": 2120,
+        "prim": 30.0,
+        "lat": 61.5511,
+        "lng": 8.43775
+    },
+    {
+        "idx": 155,
+        "name": "Lindbergtinden",
+        "height": 2120,
+        "prim": 40.0,
+        "lat": 61.60437,
+        "lng": 8.28016
+    },
+    {
+        "idx": 156,
+        "name": "Munken",
+        "height": 2120,
+        "prim": 10.0,
+        "lat": 61.40002,
+        "lng": 8.66388
+    },
+    {
+        "idx": 157,
+        "name": "Veotinden, N",
+        "height": 2120,
+        "prim": 50.0,
+        "lat": 61.5842,
+        "lng": 8.53358
+    },
+    {
+        "idx": 158,
+        "name": "Torfinnstinden, \u00d8",
+        "height": 2119,
+        "prim": 190.0,
+        "lat": 61.37346,
+        "lng": 8.57693
+    },
+    {
+        "idx": 159,
+        "name": "Skeii",
+        "height": 2118,
+        "prim": 60.0,
+        "lat": 61.55656,
+        "lng": 8.11523
+    },
+    {
+        "idx": 160,
+        "name": "Urdadalstinden, Store",
+        "height": 2116,
+        "prim": 270.0,
+        "lat": 61.55155,
+        "lng": 8.37759
+    },
+    {
+        "idx": 161,
+        "name": "H\u00f8gronden",
+        "height": 2115,
+        "prim": 700.0,
+        "lat": 61.94438,
+        "lng": 9.90024
+    },
+    {
+        "idx": 162,
+        "name": "Hinnotefjellet",
+        "height": 2114,
+        "prim": 210.0,
+        "lat": 61.51893,
+        "lng": 8.45132
+    },
+    {
+        "idx": 163,
+        "name": "Gravdalstinden",
+        "height": 2113,
+        "prim": 240.0,
+        "lat": 61.52283,
+        "lng": 8.11785
+    },
+    {
+        "idx": 164,
+        "name": "Tverrbotntinden, V-1",
+        "height": 2113,
+        "prim": 120.0,
+        "lat": 61.5824,
+        "lng": 8.24652
+    },
+    {
+        "idx": 165,
+        "name": "Leirh\u00f8i, S",
+        "height": 2110,
+        "prim": 15.0,
+        "lat": 61.58574,
+        "lng": 8.47292
+    },
+    {
+        "idx": 166,
+        "name": "Torfinnstinden, M",
+        "height": 2110,
+        "prim": 100.0,
+        "lat": 61.37424,
+        "lng": 8.57147
+    },
+    {
+        "idx": 167,
+        "name": "Tverrbotntinden, S for V-1",
+        "height": 2110,
+        "prim": 20.0,
+        "lat": 61.58197,
+        "lng": 8.24496
+    },
+    {
+        "idx": 168,
+        "name": "Veslebj\u00f8rn, N",
+        "height": 2110,
+        "prim": 20.0,
+        "lat": 61.55722,
+        "lng": 8.13082
+    },
+    {
+        "idx": 169,
+        "name": "Larstinden",
+        "height": 2106,
+        "prim": 250.0,
+        "lat": 62.32045,
+        "lng": 9.22145
+    },
+    {
+        "idx": 170,
+        "name": "Tverrbotntinden, \u00d8-2",
+        "height": 2106,
+        "prim": 50.0,
+        "lat": 61.56415,
+        "lng": 8.26759
+    },
+    {
+        "idx": 171,
+        "name": "Rasletinden",
+        "height": 2105,
+        "prim": 110.0,
+        "lat": 61.39513,
+        "lng": 8.69943
+    },
+    {
+        "idx": 172,
+        "name": "Austanbotntinden, S\u00f8re",
+        "height": 2103,
+        "prim": 10.0,
+        "lat": 61.42815,
+        "lng": 7.79087
+    },
+    {
+        "idx": 173,
+        "name": "H\u00f8gset (Hestbrepiggen, \u00d8-2)",
+        "height": 2103,
+        "prim": 10.0,
+        "lat": 61.74207,
+        "lng": 8.12729
+    },
+    {
+        "idx": 174,
+        "name": "Tverrbotnhornet (Tverrbytthornet)",
+        "height": 2102,
+        "prim": 275.0,
+        "lat": 61.55781,
+        "lng": 8.30699
+    },
+    {
+        "idx": 175,
+        "name": "Austanbotntinden, V-1",
+        "height": 2100,
+        "prim": 30.0,
+        "lat": 61.43283,
+        "lng": 7.78882
+    },
+    {
+        "idx": 176,
+        "name": "Bukkeh\u00f8i, N for..",
+        "height": 2100,
+        "prim": 20.0,
+        "lat": 61.61356,
+        "lng": 8.25867
+    },
+    {
+        "idx": 177,
+        "name": "Skarddalstinden",
+        "height": 2100,
+        "prim": 150.0,
+        "lat": 61.48916,
+        "lng": 8.32058
+    },
+    {
+        "idx": 178,
+        "name": "Skagsnebb, V-1 (Catedralen)",
+        "height": 2093,
+        "prim": 120.0,
+        "lat": 61.60176,
+        "lng": 8.13189
+    },
+    {
+        "idx": 179,
+        "name": "Veslbreatinden",
+        "height": 2092,
+        "prim": 120.0,
+        "lat": 61.59365,
+        "lng": 8.11189
+    },
+    {
+        "idx": 180,
+        "name": "Hestdalsh\u00f8gdi",
+        "height": 2091,
+        "prim": 660.0,
+        "lat": 61.80065736696292,
+        "lng": 8.036378702502317
+    },
+    {
+        "idx": 181,
+        "name": "Bukkeholstinden, p\u00e5 Tverr\u00e5breen N for V-3",
+        "height": 2090,
+        "prim": 20.0,
+        "lat": 61.59663,
+        "lng": 8.27947
+    },
+    {
+        "idx": 182,
+        "name": "Memurutinden, N for V-5",
+        "height": 2090,
+        "prim": 15.0,
+        "lat": 61.54228,
+        "lng": 8.49233
+    },
+    {
+        "idx": 183,
+        "name": "Trollh\u00f8in, \u00d8 (Trollsteinh\u00f8e, \u00d8)",
+        "height": 2090,
+        "prim": 40.0,
+        "lat": 61.70422,
+        "lng": 8.60346
+    },
+    {
+        "idx": 184,
+        "name": "Glitter-Rundh\u00f8i (Godh\u00f8)",
+        "height": 2089,
+        "prim": 35.0,
+        "lat": 61.63836,
+        "lng": 8.52668
+    },
+    {
+        "idx": 185,
+        "name": "Nautgardsoksli",
+        "height": 2089,
+        "prim": 50.0,
+        "lat": 61.60968,
+        "lng": 8.73284
+    },
+    {
+        "idx": 186,
+        "name": "Tverr\u00e5dalskyrkja",
+        "height": 2089,
+        "prim": 650.0,
+        "lat": 61.7426,
+        "lng": 7.6867
+    },
+    {
+        "idx": 187,
+        "name": "Kalveh\u00f8gdi, \u00d8-2",
+        "height": 2088,
+        "prim": 15.0,
+        "lat": 61.3893,
+        "lng": 8.67166
+    },
+    {
+        "idx": 188,
+        "name": "Rauddalstinden, \u00d8-3",
+        "height": 2086,
+        "prim": 415.0,
+        "lat": 61.48937,
+        "lng": 8.26489
+    },
+    {
+        "idx": 189,
+        "name": "Slettmarkh\u00f8i, N",
+        "height": 2086,
+        "prim": 15.0,
+        "lat": 61.40742,
+        "lng": 8.47988
+    },
+    {
+        "idx": 190,
+        "name": "Langvasstinden, Store",
+        "height": 2085,
+        "prim": 160.0,
+        "lat": 62.3163,
+        "lng": 9.20256
+    },
+    {
+        "idx": 191,
+        "name": "Torfinnstinden, V",
+        "height": 2085,
+        "prim": 35.0,
+        "lat": 61.37437,
+        "lng": 8.56927
+    },
+    {
+        "idx": 192,
+        "name": "Lodalsk\u00e5pa",
+        "height": 2083,
+        "prim": 760.0,
+        "lat": 61.79052,
+        "lng": 7.20471
+    },
+    {
+        "idx": 193,
+        "name": "Soleibotntinden, Store",
+        "height": 2083,
+        "prim": 170.0,
+        "lat": 61.44726,
+        "lng": 7.78644
+    },
+    {
+        "idx": 194,
+        "name": "Urdadalstinden, SV-1",
+        "height": 2080,
+        "prim": 45.0,
+        "lat": 61.5272,
+        "lng": 8.35854
+    },
+    {
+        "idx": 195,
+        "name": "Leirungskampen",
+        "height": 2079,
+        "prim": 70.0,
+        "lat": 61.3957,
+        "lng": 8.60122
+    },
+    {
+        "idx": 196,
+        "name": "Hestbrepiggen, V-3",
+        "height": 2078,
+        "prim": 110.0,
+        "lat": 61.72804,
+        "lng": 7.99457
+    },
+    {
+        "idx": 197,
+        "name": "Surtningssui, N\u00d8",
+        "height": 2078,
+        "prim": 25.0,
+        "lat": 61.53803,
+        "lng": 8.62453
+    },
+    {
+        "idx": 198,
+        "name": "Kniven, S\u00d8 for.. (Geiti p\u00e5 M711-kart)",
+        "height": 2077,
+        "prim": 30.0,
+        "lat": 61.56587,
+        "lng": 8.12705
+    },
+    {
+        "idx": 199,
+        "name": "Leirh\u00f8i, N",
+        "height": 2077,
+        "prim": 25.0,
+        "lat": 61.6041,
+        "lng": 8.45513
+    },
+    {
+        "idx": 200,
+        "name": "Galdeberget (Galdebergtinden)",
+        "height": 2075,
+        "prim": 390.0,
+        "lat": 61.38056,
+        "lng": 8.44239
+    },
+    {
+        "idx": 201,
+        "name": "St\u00f8lsnostinden",
+        "height": 2074,
+        "prim": 640.0,
+        "lat": 61.39599,
+        "lng": 8.0709
+    },
+    {
+        "idx": 202,
+        "name": "Skarvflytinden, N",
+        "height": 2073,
+        "prim": 25.0,
+        "lat": 61.44379,
+        "lng": 8.58651
+    },
+    {
+        "idx": 203,
+        "name": "Dyrhaugstinden, S\u00f8re",
+        "height": 2072,
+        "prim": 60.0,
+        "lat": 61.45539,
+        "lng": 7.84411
+    },
+    {
+        "idx": 204,
+        "name": "Heillstuguh\u00f8i",
+        "height": 2072,
+        "prim": 20.0,
+        "lat": 61.57461,
+        "lng": 8.42712
+    },
+    {
+        "idx": 205,
+        "name": "Kvassryggen",
+        "height": 2071,
+        "prim": 30.0,
+        "lat": 61.45931,
+        "lng": 8.6807
+    },
+    {
+        "idx": 206,
+        "name": "Larseggen (Larstinden, N)",
+        "height": 2070,
+        "prim": 20.0,
+        "lat": 62.32178,
+        "lng": 9.22137
+    },
+    {
+        "idx": 207,
+        "name": "Fanar\u00e5ken (Fannar\u00e5ki)",
+        "height": 2068,
+        "prim": 450.0,
+        "lat": 61.51661,
+        "lng": 7.9085
+    },
+    {
+        "idx": 208,
+        "name": "Lomseggi (Storivilen)",
+        "height": 2068,
+        "prim": 290.0,
+        "lat": 61.8195,
+        "lng": 8.3668
+    },
+    {
+        "idx": 209,
+        "name": "Falketind",
+        "height": 2067,
+        "prim": 175.0,
+        "lat": 61.38478,
+        "lng": 8.09677
+    },
+    {
+        "idx": 210,
+        "name": "Svartholsh\u00f8i",
+        "height": 2067,
+        "prim": 55.0,
+        "lat": 61.68077,
+        "lng": 8.56203
+    },
+    {
+        "idx": 211,
+        "name": "H\u00f8gvagltinden, M",
+        "height": 2066,
+        "prim": 460.0,
+        "lat": 61.50513,
+        "lng": 8.2608
+    },
+    {
+        "idx": 212,
+        "name": "Kvitskardoksle",
+        "height": 2065,
+        "prim": 15.0,
+        "lat": 61.39084,
+        "lng": 8.5485
+    },
+    {
+        "idx": 213,
+        "name": "Svartdalspiggen, M",
+        "height": 2065,
+        "prim": 40.0,
+        "lat": 61.40843,
+        "lng": 8.51106
+    },
+    {
+        "idx": 214,
+        "name": "Svartdalspiggen, S",
+        "height": 2065,
+        "prim": 55.0,
+        "lat": 61.40306,
+        "lng": 8.51154
+    },
+    {
+        "idx": 215,
+        "name": "Kvitingskj\u00f8len, Store",
+        "height": 2064,
+        "prim": 770.0,
+        "lat": 61.76283,
+        "lng": 8.73595
+    },
+    {
+        "idx": 216,
+        "name": "Geiti, V (Saksi, \u00d8-1 for..)",
+        "height": 2064,
+        "prim": 30.0,
+        "lat": 61.56156,
+        "lng": 8.14027
+    },
+    {
+        "idx": 217,
+        "name": "Midtmaradalstinden, N-1",
+        "height": 2062,
+        "prim": 90.0,
+        "lat": 61.4495,
+        "lng": 7.84354
+    },
+    {
+        "idx": 218,
+        "name": "Hurrbreatinden (Skagsnebb, V-2)",
+        "height": 2060,
+        "prim": 30.0,
+        "lat": 61.59842,
+        "lng": 8.11028
+    },
+    {
+        "idx": 219,
+        "name": "Kvitingskj\u00f8len, V",
+        "height": 2060,
+        "prim": 110.0,
+        "lat": 61.75952,
+        "lng": 8.69804
+    },
+    {
+        "idx": 220,
+        "name": "Midtronden, V",
+        "height": 2060,
+        "prim": 290.0,
+        "lat": 61.94419,
+        "lng": 9.85811
+    },
+    {
+        "idx": 221,
+        "name": "Urdadalstinden, M",
+        "height": 2060,
+        "prim": 110.0,
+        "lat": 61.54256,
+        "lng": 8.38548
+    },
+    {
+        "idx": 222,
+        "name": "Rauddalstinden, V-1",
+        "height": 2059,
+        "prim": 140.0,
+        "lat": 61.50092,
+        "lng": 8.17609
+    },
+    {
+        "idx": 223,
+        "name": "Bukkeholstinden, S\u00d8",
+        "height": 2058,
+        "prim": 55.0,
+        "lat": 61.57541,
+        "lng": 8.32413
+    },
+    {
+        "idx": 224,
+        "name": "Midtmaradalstinden, Store",
+        "height": 2056,
+        "prim": 300.0,
+        "lat": 61.44187,
+        "lng": 7.87196
+    },
+    {
+        "idx": 225,
+        "name": "Stornubben, Vesle",
+        "height": 2055,
+        "prim": 20.0,
+        "lat": 61.63224,
+        "lng": 8.80185
+    },
+    {
+        "idx": 226,
+        "name": "Hestbrepiggen, V-1",
+        "height": 2051,
+        "prim": 20.0,
+        "lat": 61.73271,
+        "lng": 8.02122
+    },
+    {
+        "idx": 227,
+        "name": "Knutseggi, n\u00e5l, M",
+        "height": 2050,
+        "prim": 25.0,
+        "lat": 61.43512,
+        "lng": 8.5397
+    },
+    {
+        "idx": 228,
+        "name": "Knutseggi, n\u00e5l, S",
+        "height": 2050,
+        "prim": 15.0,
+        "lat": 61.43458,
+        "lng": 8.54202
+    },
+    {
+        "idx": 229,
+        "name": "Memurutinden, V-6",
+        "height": 2049,
+        "prim": 25.0,
+        "lat": 61.53637,
+        "lng": 8.49781
+    },
+    {
+        "idx": 230,
+        "name": "Soleibotntinden, S-2",
+        "height": 2049,
+        "prim": 50.0,
+        "lat": 61.44405,
+        "lng": 7.79238
+    },
+    {
+        "idx": 231,
+        "name": "Stornubben, N\u00d8",
+        "height": 2049,
+        "prim": 95.0,
+        "lat": 61.63673,
+        "lng": 8.81262
+    },
+    {
+        "idx": 232,
+        "name": "Urdanostinden, S-2",
+        "height": 2048,
+        "prim": 55.0,
+        "lat": 61.42059,
+        "lng": 8.15343
+    },
+    {
+        "idx": 233,
+        "name": "Hol\u00e5tinden, M",
+        "height": 2047,
+        "prim": 220.0,
+        "lat": 61.74286,
+        "lng": 7.86896
+    },
+    {
+        "idx": 234,
+        "name": "Langvasstinden, V",
+        "height": 2046,
+        "prim": 35.0,
+        "lat": 62.31598,
+        "lng": 9.19342
+    },
+    {
+        "idx": 235,
+        "name": "Langedalstinden, S-1",
+        "height": 2045,
+        "prim": 10.0,
+        "lat": 61.39639,
+        "lng": 8.52511
+    },
+    {
+        "idx": 236,
+        "name": "Sm\u00f8rstabbtinden, SV-1",
+        "height": 2045,
+        "prim": 90.0,
+        "lat": 61.53298,
+        "lng": 8.10465
+    },
+    {
+        "idx": 237,
+        "name": "Moldurh\u00f8i",
+        "height": 2044,
+        "prim": 145.0,
+        "lat": 61.80837403879665,
+        "lng": 8.268572637591303
+    },
+    {
+        "idx": 238,
+        "name": "Vinjeronden",
+        "height": 2044,
+        "prim": 90.0,
+        "lat": 61.9037559798352,
+        "lng": 9.848854972681911
+    },
+    {
+        "idx": 239,
+        "name": "Hol\u00e5tinden, \u00d8",
+        "height": 2043,
+        "prim": 200.0,
+        "lat": 61.74729,
+        "lng": 7.90166
+    },
+    {
+        "idx": 240,
+        "name": "Midtronden, \u00d8",
+        "height": 2042,
+        "prim": 90.0,
+        "lat": 61.94915,
+        "lng": 9.8707
+    },
+    {
+        "idx": 241,
+        "name": "Eggi",
+        "height": 2041,
+        "prim": 70.0,
+        "lat": 61.4625,
+        "lng": 8.65456
+    },
+    {
+        "idx": 242,
+        "name": "Mj\u00f8lkedalspiggen",
+        "height": 2040,
+        "prim": 130.0,
+        "lat": 61.44331,
+        "lng": 8.18134
+    },
+    {
+        "idx": 243,
+        "name": "Sagi, N",
+        "height": 2040,
+        "prim": 20.0,
+        "lat": 61.44653,
+        "lng": 8.15576
+    },
+    {
+        "idx": 244,
+        "name": "Sagi, S",
+        "height": 2040,
+        "prim": 250.0,
+        "lat": 61.44363,
+        "lng": 8.16078
+    },
+    {
+        "idx": 245,
+        "name": "Hol\u00e5tinden, V",
+        "height": 2039,
+        "prim": 150.0,
+        "lat": 61.7428,
+        "lng": 7.84271
+    },
+    {
+        "idx": 246,
+        "name": "Urdanostinden, S-1",
+        "height": 2037,
+        "prim": 10.0,
+        "lat": 61.42347,
+        "lng": 8.15121
+    },
+    {
+        "idx": 247,
+        "name": "Knutseggi, n\u00e5l, N-1",
+        "height": 2035,
+        "prim": 10.0,
+        "lat": 61.43552,
+        "lng": 8.53859
+    },
+    {
+        "idx": 248,
+        "name": "Knutseggi, n\u00e5l, N-2",
+        "height": 2035,
+        "prim": 10.0,
+        "lat": 61.4353,
+        "lng": 8.54154
+    },
+    {
+        "idx": 249,
+        "name": "Tverrbotnhornet, V (Tverrbytthornet, V)",
+        "height": 2035,
+        "prim": 20.0,
+        "lat": 61.55756,
+        "lng": 8.29893
+    },
+    {
+        "idx": 250,
+        "name": "Kalven",
+        "height": 2034,
+        "prim": 40.0,
+        "lat": 61.55377,
+        "lng": 8.10473
+    },
+    {
+        "idx": 251,
+        "name": "Tverr\u00e5dalskyrkja, S",
+        "height": 2034,
+        "prim": 45.0,
+        "lat": 61.73724,
+        "lng": 7.68084
+    },
+    {
+        "idx": 252,
+        "name": "Sm\u00f8rstabbtinden, S-1",
+        "height": 2033,
+        "prim": 50.0,
+        "lat": 61.53087,
+        "lng": 8.11925
+    },
+    {
+        "idx": 253,
+        "name": "Spiterh\u00f8i",
+        "height": 2033,
+        "prim": 140.0,
+        "lat": 61.61272,
+        "lng": 8.43873
+    },
+    {
+        "idx": 254,
+        "name": "Surtningssui, \u00d8-3",
+        "height": 2033,
+        "prim": 15.0,
+        "lat": 61.52991,
+        "lng": 8.6054
+    },
+    {
+        "idx": 255,
+        "name": "Kyrkja",
+        "height": 2032,
+        "prim": 280.0,
+        "lat": 61.54137,
+        "lng": 8.29224
+    },
+    {
+        "idx": 256,
+        "name": "Slettmarkkampen",
+        "height": 2032,
+        "prim": 40.0,
+        "lat": 61.39864,
+        "lng": 8.44978
+    },
+    {
+        "idx": 257,
+        "name": "Langedalstinden, S-2",
+        "height": 2030,
+        "prim": 15.0,
+        "lat": 61.39386000425349,
+        "lng": 8.527282296945481
+    },
+    {
+        "idx": 258,
+        "name": "Langvassh\u00f8i (Visbretinden S)",
+        "height": 2030,
+        "prim": 70.0,
+        "lat": 61.52455,
+        "lng": 8.32257
+    },
+    {
+        "idx": 259,
+        "name": "Sm\u00f8rstabbtinden, S\u00d8",
+        "height": 2030,
+        "prim": 40.0,
+        "lat": 61.53522,
+        "lng": 8.12399
+    },
+    {
+        "idx": 260,
+        "name": "Soleibotntinden, N-1",
+        "height": 2030,
+        "prim": 40.0,
+        "lat": 61.44913,
+        "lng": 7.79023
+    },
+    {
+        "idx": 261,
+        "name": "St\u00f8lsmaradalstinden",
+        "height": 2026,
+        "prim": 210.0,
+        "lat": 61.43246,
+        "lng": 7.83309
+    },
+    {
+        "idx": 262,
+        "name": "Urdanostinden, N (Slingsbytind)",
+        "height": 2026,
+        "prim": 90.0,
+        "lat": 61.43482,
+        "lng": 8.14393
+    },
+    {
+        "idx": 263,
+        "name": "Kvitingskj\u00f8len, N",
+        "height": 2025,
+        "prim": 17.0,
+        "lat": 61.77317,
+        "lng": 8.72615
+    },
+    {
+        "idx": 264,
+        "name": "Midtmaradalstinden, N-2",
+        "height": 2025,
+        "prim": 10.0,
+        "lat": 61.45080501094018,
+        "lng": 7.841804070230672
+    },
+    {
+        "idx": 265,
+        "name": "Ringstinden, M",
+        "height": 2025,
+        "prim": 265.0,
+        "lat": 61.44257,
+        "lng": 7.8275
+    },
+    {
+        "idx": 266,
+        "name": "Steindalsnosi",
+        "height": 2025,
+        "prim": 180.0,
+        "lat": 61.52684,
+        "lng": 7.90379
+    },
+    {
+        "idx": 267,
+        "name": "Urdadalstinden, S-1",
+        "height": 2025,
+        "prim": 15.0,
+        "lat": 61.54129,
+        "lng": 8.38617
+    },
+    {
+        "idx": 268,
+        "name": "Hesth\u00f8i",
+        "height": 2021,
+        "prim": 210.0,
+        "lat": 61.77813,
+        "lng": 8.19202
+    },
+    {
+        "idx": 269,
+        "name": "Austanbotntinden, V-2",
+        "height": 2020,
+        "prim": 25.0,
+        "lat": 61.43399,
+        "lng": 7.78363
+    },
+    {
+        "idx": 270,
+        "name": "Soleibotntinden, S-1",
+        "height": 2020,
+        "prim": 20.0,
+        "lat": 61.44626,
+        "lng": 7.78812
+    },
+    {
+        "idx": 271,
+        "name": "Stetinden",
+        "height": 2020,
+        "prim": 445.0,
+        "lat": 61.54756,
+        "lng": 8.19543
+    },
+    {
+        "idx": 272,
+        "name": "Kalveholotinden, N",
+        "height": 2019,
+        "prim": 110.0,
+        "lat": 61.37116,
+        "lng": 8.63069
+    },
+    {
+        "idx": 273,
+        "name": "Brenibba",
+        "height": 2018,
+        "prim": 300.0,
+        "lat": 61.7643306776456,
+        "lng": 7.194275113413275
+    },
+    {
+        "idx": 274,
+        "name": "Steinkollen (Fortundalsbreen, SV for..)",
+        "height": 2018,
+        "prim": 80.0,
+        "lat": 61.72904,
+        "lng": 7.68301
+    },
+    {
+        "idx": 275,
+        "name": "Grjotbrehesten",
+        "height": 2018,
+        "prim": 100.0,
+        "lat": 61.67468,
+        "lng": 8.57783
+    },
+    {
+        "idx": 276,
+        "name": "Trolltinden (Sagtinden)",
+        "height": 2018,
+        "prim": 780.0,
+        "lat": 61.91916,
+        "lng": 9.70788
+    },
+    {
+        "idx": 277,
+        "name": "Storbreatinden",
+        "height": 2018,
+        "prim": 90.0,
+        "lat": 61.58706,
+        "lng": 8.1263
+    },
+    {
+        "idx": 278,
+        "name": "Midtmaradalstinden, Vetle",
+        "height": 2017,
+        "prim": 20.0,
+        "lat": 61.44039,
+        "lng": 7.87458
+    },
+    {
+        "idx": 279,
+        "name": "Urdadalstinden, S-2",
+        "height": 2017,
+        "prim": 15.0,
+        "lat": 61.53923,
+        "lng": 8.38758
+    },
+    {
+        "idx": 280,
+        "name": "Rauddalseggi, M",
+        "height": 2016,
+        "prim": 130.0,
+        "lat": 61.46298,
+        "lng": 8.33397
+    },
+    {
+        "idx": 281,
+        "name": "Storsmeden",
+        "height": 2016,
+        "prim": 270.0,
+        "lat": 61.90941,
+        "lng": 9.73955
+    },
+    {
+        "idx": 282,
+        "name": "Digerronden",
+        "height": 2015,
+        "prim": 190.0,
+        "lat": 61.95122,
+        "lng": 9.83122
+    },
+    {
+        "idx": 283,
+        "name": "Sm\u00f8rstabbtinden, S-2",
+        "height": 2015,
+        "prim": 20.0,
+        "lat": 61.5265,
+        "lng": 8.11417
+    },
+    {
+        "idx": 284,
+        "name": "Veslesmeden",
+        "height": 2015,
+        "prim": 200.0,
+        "lat": 61.91642,
+        "lng": 9.75723
+    },
+    {
+        "idx": 285,
+        "name": "Gr\u00e5h\u00f8e",
+        "height": 2014,
+        "prim": 985.0,
+        "lat": 62.07148,
+        "lng": 8.11009
+    },
+    {
+        "idx": 286,
+        "name": "Langeskavlstinden",
+        "height": 2014,
+        "prim": 200.0,
+        "lat": 61.42798,
+        "lng": 8.1788
+    },
+    {
+        "idx": 287,
+        "name": "Hestbrepiggen, NV (L\u00e5ven)",
+        "height": 2012,
+        "prim": 40.0,
+        "lat": 61.75254,
+        "lng": 8.05214
+    },
+    {
+        "idx": 288,
+        "name": "Bukkeholstinden, N\u00d8",
+        "height": 2011,
+        "prim": 15.0,
+        "lat": 61.58915,
+        "lng": 8.32022
+    },
+    {
+        "idx": 289,
+        "name": "Rasletinden, \u00d8",
+        "height": 2010,
+        "prim": 30.0,
+        "lat": 61.39864,
+        "lng": 8.72163
+    },
+    {
+        "idx": 290,
+        "name": "Spiterh\u00f8i, N-1",
+        "height": 2009,
+        "prim": 15.0,
+        "lat": 61.61673,
+        "lng": 8.44649
+    },
+    {
+        "idx": 291,
+        "name": "Urdadalstinden, SV-2",
+        "height": 2005,
+        "prim": 30.0,
+        "lat": 61.52105,
+        "lng": 8.35854
+    },
+    {
+        "idx": 292,
+        "name": "Semelholstinden, N",
+        "height": 2004,
+        "prim": 30.0,
+        "lat": 61.53933,
+        "lng": 8.34764
+    },
+    {
+        "idx": 293,
+        "name": "Skredah\u00f8in",
+        "height": 2004,
+        "prim": 380.0,
+        "lat": 62.258,
+        "lng": 9.19783
+    },
+    {
+        "idx": 294,
+        "name": "Sv\u00e5n\u00e5tinden, N",
+        "height": 2004,
+        "prim": 50.0,
+        "lat": 62.30437,
+        "lng": 9.17891
+    },
+    {
+        "idx": 295,
+        "name": "Skagsnebb",
+        "height": 2003,
+        "prim": 50.0,
+        "lat": 61.60631,
+        "lng": 8.14757
+    },
+    {
+        "idx": 296,
+        "name": "Geiti (feilplassert p\u00e5 M711-kart)",
+        "height": 2002,
+        "prim": 70.0,
+        "lat": 61.56397,
+        "lng": 8.16086
+    },
+    {
+        "idx": 297,
+        "name": "Ringstinden, \u00d8",
+        "height": 2002,
+        "prim": 130.0,
+        "lat": 61.44485,
+        "lng": 7.83978
+    },
+    {
+        "idx": 298,
+        "name": "Bruri (Sv\u00e5n\u00e5kollen)",
+        "height": 2001,
+        "prim": 150.0,
+        "lat": 62.29711,
+        "lng": 9.20019
+    },
+    {
+        "idx": 299,
+        "name": "Jervefonni (Storbreah\u00f8e)",
+        "height": 2001,
+        "prim": 95.0,
+        "lat": 61.5896,
+        "lng": 8.14492
+    },
+    {
+        "idx": 300,
+        "name": "St\u00f8lsnostinden, \u00d8-1 for..",
+        "height": 2001,
+        "prim": 115.0,
+        "lat": 61.39513,
+        "lng": 8.08165
+    }
+]
